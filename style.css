@@ -3,3 +3,9 @@
     margin: 0;
    box-sizing: border-box;
 }
+.title{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 1rem;
+    background-color: #c71f1f;
+}
